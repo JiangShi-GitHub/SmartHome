@@ -35,12 +35,15 @@
 ![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/background/qiya.bmp)
 
 ### 光照界面
+共3张图片，此处展示其中一个，剩余可去/pictures/background/中查看
+![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/background/duo_yun.bmp)
 
 ### 音乐播放界面
+![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/background/music.bmp)
 
 ### 烟雾浓度值查看界面
 烟雾报警是全局的，不管在哪个界面，当烟雾浓度>100都会报警
-
+![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/background/yanwu.bmp)
 
 
 # Copyright
