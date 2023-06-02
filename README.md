@@ -29,7 +29,7 @@
 有一个胡桃摇小动画，还会调用流水灯
 ![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/background/hutao_beijing.bmp)
 
-![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/hutao_bmp/hutao00.bmp)
+![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/hutao_bmp/hutao02.bmp)
 
 ### 气压、海拔界面
 ![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/background/qiya.bmp)
