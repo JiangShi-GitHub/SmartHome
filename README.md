@@ -19,7 +19,7 @@
 
 ### 主界面
 
-![main](V:\粤嵌实习\gongxiang\project_smarthome\pictures\background\main.bmp)
+![image](https://github.com/JiangShi-GitHub/SmartHome/blob/main/pictures/background/main.bmp)
 
 ### 温湿度界面
 
